@@ -102,15 +102,17 @@
         android:layout_marginTop="0dp"
         android:id="@+id/button_cake_plus"
         android:onClick="pluscake"
+        android:background="#F8BBD0"
        />
     <Button
         android:layout_width="30dp"
         android:layout_height="32dp"
         android:text="-"
         android:layout_marginLeft="100dp"
-        android:layout_marginTop="25dp"
+        android:layout_marginTop="35dp"
         android:id="@+id/button_cake_muius"
         android:onClick="mulscake"
+        android:background="#90CAF9"
         />
 
     <TextView
@@ -145,15 +147,17 @@
         android:layout_marginTop="400dp"
         android:id="@+id/button_pudding_plus"
         android:onClick="pluspudding"
+        android:background="#F8BBD0"
         />
     <Button
         android:layout_width="30dp"
         android:layout_height="32dp"
         android:text="-"
         android:layout_marginLeft="0dp"
-        android:layout_marginTop="425dp"
+        android:layout_marginTop="435dp"
         android:id="@+id/button_pudding_muius"
         android:onClick="mulspudding"
+        android:background="#90CAF9"
         />
 
     <TextView
@@ -186,15 +190,17 @@
         android:layout_marginTop="400dp"
         android:id="@+id/button_yoguert_plus"
         android:onClick="plusyoguert"
+        android:background="#F8BBD0"
         />
     <Button
         android:layout_width="30dp"
         android:layout_height="32dp"
         android:text="-"
         android:layout_marginLeft="200dp"
-        android:layout_marginTop="425dp"
+        android:layout_marginTop="435dp"
         android:id="@+id/button_yoguert_muius"
         android:onClick="mulsyoguert"
+        android:background="#90CAF9"
         />
 
     <TextView
@@ -227,6 +233,7 @@
         android:layout_marginTop="110dp"
         android:id="@+id/button_cookies_plus"
         android:onClick="pluscookies"
+        android:background="#F8BBD0"
         />
     <Button
         android:layout_width="30dp"
@@ -236,6 +243,7 @@
         android:layout_marginTop="110dp"
         android:id="@+id/button_cookies_muius"
         android:onClick="mulscookies"
+        android:background="#90CAF9"
         />
 
     <TextView
@@ -267,6 +275,7 @@
         android:layout_marginTop="110dp"
         android:id="@+id/button_pancake_plus"
         android:onClick="pluspancake"
+        android:background="#F8BBD0"
         />
     <Button
         android:layout_width="30dp"
@@ -276,6 +285,7 @@
         android:layout_marginTop="110dp"
         android:id="@+id/button_pancake_muius"
         android:onClick="mulspancake"
+        android:background="#90CAF9"
         />
 
     <TextView
